@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:covellite"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:covellite_block"
+    }
+  }

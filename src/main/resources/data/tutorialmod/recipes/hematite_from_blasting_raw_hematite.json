@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2,
+  "group": "hematite",
+  "ingredient": {
+    "item": "tutorialmod:raw_hematite"
+  },
+  "result": "tutorialmod:hematite"
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:deepslate_covellite_ore_block",
+    "tutorialmod:covellite_ore_block",
+    "tutorialmod:covellite_block",
+    "tutorialmod:deepslate_damantite_ore_block",
+    "tutorialmod:damantite_block",
+    "tutorialmod:deepslate_hematite_ore_block",
+    "tutorialmod:hematite_block",
+    "tutorialmod:raw_hematite_block",
+    "tutorialmod:raw_damantite_block",
+    "tutorialmod:raw_covellite_block",
+    "tutorialmod:deepslate_aetherium_ore_block"
+  ]
+}

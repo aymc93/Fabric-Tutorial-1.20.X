@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:rutile_block",
+    "tutorialmod:rutile_ore_block",
+    "tutorialmod:bornite_block",
+    "tutorialmod:bornite_ore_block",
+    "tutorialmod:covellite_block"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "item.tutorialmod.rutile": "Rutile",
+  "item.tutorialmod.bornite": "Bornite",
+  "item.tutorialmod.hematite": "Hematite",
+  "item.tutorialmod.raw_hematite": "Raw Hematite",
+  "item.tutorialmod.covellite": "Covellite",
+  "item.tutorialmod.raw_covellite": "Raw Covellite",
+  "item.tutorialmod.damantite": "Damantite",
+  "item.tutorialmod.raw_damantite": "Raw Damantite",
+
+  "block.tutorialmod.rutile_block": "Block of Rutile",
+  "block.tutorialmod.bornite_block": "Block of Bornite",
+  "block.tutorialmod.covellite_block": "Block of Covellite",
+  "block.tutorialmod.damantite_block": "Block of Damantite",
+  "block.tutorialmod.hematite_block": "Block of Hematite",
+  "block.tutorialmod.raw_covellite_block": "Block of Raw Covellite",
+  "block.tutorialmod.raw_damantite_block": "Block of Raw Damantite",
+  "block.tutorialmod.raw_hematite_block": "Block of Raw Hematite",
+
+  "block.tutorialmod.rutile_ore_block": "Rutile Ore",
+  "block.tutorialmod.deepslate_bornite_ore_block": "Deepslate Bornite Ore",
+  "block.tutorialmod.deepslate_covellite_ore_block": "Deepslate Covellite Ore",
+  "block.tutorialmod.deepslate_damantite_ore_block": "Deepslate Damantite Ore",
+  "block.tutorialmod.covellite_ore_block": "Covellite Ore",
+  "block.tutorialmod.deepslate_hematite_ore_block": "Deepslate Hematite Ore",
+
+  "item.tutorialmod.cendresol": "Cendresol",
+  "item.tutorialmod.eclipsium": "Eclipsium",
+  "item.tutorialmod.euchryte": "Euchryte",
+  "item.tutorialmod.noctyrium": "Noctyrium",
+  "item.tutorialmod.sombrelium": "sombrelium",
+
+  "item.tutorialmod.aetherium": "Ætherium",
+  "item.tutorialmod.deepslate_aetherium_ore_block": "Deepslate Ætherium Ore",
+
+
+
+
+
+  "itemgroup.rutile": "Ætherium"
+
+}

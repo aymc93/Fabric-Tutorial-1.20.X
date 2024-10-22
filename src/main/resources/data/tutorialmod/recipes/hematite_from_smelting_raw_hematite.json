@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 2,
+  "group": "hematite",
+  "ingredient": {
+    "item": "tutorialmod:raw_hematite"
+  },
+  "result": "tutorialmod:hematite"
+}

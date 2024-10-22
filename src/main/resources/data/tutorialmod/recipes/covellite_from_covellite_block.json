@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorialmod:covellite_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:covellite",
+    "count": 9
+  }
+}

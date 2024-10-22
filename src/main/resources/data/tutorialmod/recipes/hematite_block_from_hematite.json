@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:hematite"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:hematite_block"
+    }
+  }

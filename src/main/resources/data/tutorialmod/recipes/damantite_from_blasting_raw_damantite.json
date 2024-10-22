@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2,
+  "group": "damantite",
+  "ingredient": {
+    "item": "tutorialmod:raw_damantite"
+  },
+  "result": "tutorialmod:damantite"
+}

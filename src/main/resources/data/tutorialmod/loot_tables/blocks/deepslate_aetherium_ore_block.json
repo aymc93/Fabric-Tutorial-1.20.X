@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "tutorialmod:cendresol",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tutorialmod:eclipsium",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tutorialmod:euchryte",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tutorialmod:noctyrium",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tutorialmod:sombrelium",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

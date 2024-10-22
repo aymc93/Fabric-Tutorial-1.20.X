@@ -3,9 +3,9 @@
 	"id": "tutorial-mod",
 	"version": "${version}",
 	"name": "Tutorial Mod",
-	"description": "CACA",
+	"description": "Forge of the Forgotten Realms",
 	"authors": [
-		"Me!"
+		"ironPNH ^u^"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

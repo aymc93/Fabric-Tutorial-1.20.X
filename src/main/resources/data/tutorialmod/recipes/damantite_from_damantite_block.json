@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorialmod:damantite_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:damantite",
+    "count": 9
+  }
+}

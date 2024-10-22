@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "S#U",
+    "#C#",
+    "E#N"
+  ],
+  "key": {
+    "C": {
+      "item": "tutorialmod:cendresol"
+    },
+    "E": {
+      "item": "tutorialmod:eclipsium"
+    },
+    "U": {
+      "item": "tutorialmod:euchryte"
+    },
+    "N": {
+      "item": "tutorialmod:noctyrium"
+    },
+    "S": {
+      "item": "tutorialmod:sombrelium"
+    },
+      "#": {
+        "item": "tutorialmod:bornite"
+      }
+    },
+  "result": {
+    "item": "tutorialmod:aetherium"
+    }
+  }

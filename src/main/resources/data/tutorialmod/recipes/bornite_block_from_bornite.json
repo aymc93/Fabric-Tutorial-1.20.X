@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:bornite"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:bornite_block"
+    }
+  }
